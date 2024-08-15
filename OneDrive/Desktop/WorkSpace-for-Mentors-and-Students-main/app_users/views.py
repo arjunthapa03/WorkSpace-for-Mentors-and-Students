@@ -39,7 +39,7 @@ def user_logout(request):
 # Create your views here.
 # def index(request):
 #     return render(request,'app_users/index.html')
-
+#this function is to the register the user
 def register(request):
 
     registered = False
